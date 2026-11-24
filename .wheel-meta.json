@@ -1,0 +1,22 @@
+{
+  "wheel_id": 956,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-161",
+  "project": "renovation-builders-brisbane-maintenance-341fc4635b209edafd20c4",
+  "parent_t1_ref": "brisbanerenovation-015",
+  "node_role": "buffer",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane maintenance",
+  "intended_url": "https://sitesau.github.io/brisbanerenovation-161/",
+  "tier": "T2",
+  "writeback_nonce": "4f566300a15ba40b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/renovation-builders-brisbane-015/",
+      "anchor": "this renovation builders brisbane resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
